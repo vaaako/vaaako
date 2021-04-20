@@ -3,7 +3,7 @@
 ### Sobre
 
 - 💾 Interesses: Python, C# e JavaScript (Lista a ser atualizada mais para frente).
-- 👨‍💻 Estudando programação.
+- 💽 Estudando programação.
 - 🌱 Pretendo no futuro cursar a faculdade de Ciências da Computação ou Engenharia de Software (Ainda indeciso).
 </br>
 <div>
