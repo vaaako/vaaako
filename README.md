@@ -1,10 +1,5 @@
 ## Salve! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-### Sobre
-
-- 💾 Interesses: Python, C# e JavaScript (Lista a ser atualizada mais para frente).
-- 💽 Estudando programação.
-- 🌱 Pretendo no futuro cursar a faculdade de Ciências da Computação ou Engenharia de Software (Ainda indeciso).
 </br>
 <div>
 
@@ -16,10 +11,15 @@
 </a>
 
 ##
+### Um pouco sobre mim
 
+- 💾 Interesses: Python, C# e JavaScript (Lista a ser atualizada mais para frente).
+- 💽 Estudando programação.
+- 🌱 Pretendo no futuro cursar a faculdade de Ciências da Computação ou Engenharia de Software (Ainda indeciso).
+##
 <div>
 <div style="display: inline_block"><br>
-⠀⠀  
+⠀⠀ 
 <img align="center" alt="Vako-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   <img align="center" alt="Vako-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
