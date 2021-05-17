@@ -13,9 +13,9 @@
 ##
 ### Um pouco sobre mim
 
-- 💾 Interesses: Python, C# e JavaScript (Lista a ser atualizada mais para frente).
+- 💾 Interesses: Python, GML, MySQL, C# (Lista a ser atualizada mais para frente).
 - 💽 Estudando programação.
-- 🌱 Pretendo no futuro cursar a faculdade de Ciências da Computação ou Engenharia de Software (Ainda indeciso).
+- 🌱 Pretendo no futuro cursar alguma faculdade da área de TI, ainda indeciso qual.
 ##
 <div>
 <div style="display: inline_block"><br>
