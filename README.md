@@ -1,6 +1,8 @@
 ## Salve! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
+### Bem vindo ao meu repositório. Como você caiu aqui? De qualquer jeito sinta-se à vontade, por aqui você vai encontrar todos (ou quase) meu programas feitos em `Pyhton`, `C#` e etc
 </br>
+
 <div>
 
   <a href="https://github.com/vaaako">
