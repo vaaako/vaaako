@@ -38,11 +38,7 @@
   <img align="center" alt="Vako-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vako-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> -->
   
-  Eu nunca sei oq dizer
-  
-  <img align="right" alt="Vako-gif" height="140" width="140" src="https://cdn.discordapp.com/attachments/722266734115029065/833325236753006632/kukuGIFin.gif">
-  
-  
+  Eu nunca sei oq dizer <img align="right" alt="Vako-gif" height="80" width="80" src="https://cdn.discordapp.com/attachments/722266734115029065/833325236753006632/kukuGIFin.gif"> 
+   
+    
 ##
-  
-  
