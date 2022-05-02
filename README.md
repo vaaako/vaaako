@@ -1,6 +1,6 @@
 # Como você veio parar aqui?
 
-## Nesse perfil você encontrar isso aqui ó
+## Nesse perfil você encontrar isso aqui
 <div align="center">
   <a href="https://github.com/vaaako">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaaako&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
