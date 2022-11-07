@@ -1,6 +1,6 @@
 # Just me
-
-(This hight javascript percentage it's of my discord bot)
+I don't know what to write here
+(This high javascript percentage is because of my discord bot)
 
 <div align="center">
   <a href="https://github.com/vaaako">
