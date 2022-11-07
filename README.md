@@ -1,5 +1,7 @@
 # Just me
 
+(This hight javascript percentage it's of my discord bot)
+
 <div align="center">
   <a href="https://github.com/vaaako">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaaako&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
