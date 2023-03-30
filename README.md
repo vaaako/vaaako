@@ -1,6 +1,6 @@
 # Just me
 I don't know what to write here<br>
-*(This high javascript percentage is because of my discord bot)*
+<!--*(This high javascript percentage is because of my discord bot)*-->
 
 <div align="center">
   <a href="https://github.com/vaaako">
