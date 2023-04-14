@@ -1,6 +1,5 @@
-# Just me
-I don't know what to write here<br>
-<!--*(This high javascript percentage is because of my discord bot)*-->
+# I'm vako
+I like programming... and writing tutorials I guess
 
 <div align="center">
   <a href="https://github.com/vaaako">
