@@ -1,5 +1,5 @@
 # I'm vako
-I like programming... and writing tutorials I guess
+I like programming... 
 
 <div align="center">
   <a href="https://github.com/vaaako">
