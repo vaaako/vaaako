@@ -1,6 +1,6 @@
 # Hi, I'm Vako
 **Systems Analysis and Development student** and aspiring **backend programmer** with<br>
-a focus on modular software and clean code
+a focus on clean code
 
 I like to use everything<br>
 > backend / graphics/ games
@@ -13,7 +13,7 @@ I like to use everything<br>
 - Tabs over Spaces (*Size 4*)
 - My favorite theme is [**Dracula**](https://draculatheme.com/)
 - Sublime Text over Visual Studio Code
-- I like to write tutorial for myself
+- I like to write tutorials for myself
 - I'm learning japanese
 
 
