@@ -9,8 +9,8 @@ I like to use everything<br>
 <img align="right" alt="spotify" width="350" src="https://spotify-github-profile.vercel.app/api/view?uid=ogo8145ejm92x2s033ete7cdm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=ca1773&bar_color_cover=false">
 
 ### Trivia
-- Tabs over Spaces (*Size 4*)
 - My favorite color is ![CA1773](https://img.shields.io/badge/CA1773-CA1773?logo=ca1773&logoColor=white&style=for-the-badge)
+- Tabs over Spaces (*Size 4*)
 - My favorite theme is [**Dracula**](https://draculatheme.com/)
 - Sublime Text over Visual Studio Code
 - I like to write tutorial for myself
