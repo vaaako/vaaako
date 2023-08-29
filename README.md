@@ -46,10 +46,11 @@ I like to use everything<br>
 ---
 
 [![GMAIL](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:matharth520@gmail.com)
+ ![DISCORD](https://img.shields.io/badge/vakothebat-5865F2?logo=discord&logoColor=white&style=for-the-badge)
 <br>![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvaaako%2Fvaaako&label=Visitors&labelColor=%23242424&countColor=%23ca1773)
 
 ---
 
 
 ![vaaako's github stats](https://github-readme-stats.vercel.app/api?username=vaaako&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![vaaako's github programming languages](https://github-readme-stats.vercel.app/api/top-langs?username=vaaako&layout=compact&langs_count=8&theme=radical&card_width=320)
+![vaaako's github programming languages](https://github-readme-stats.vercel.app/api/top-langs?username=vaaako&layout=compact&langs_count=20&theme=radical&card_width=320)
