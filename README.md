@@ -2,8 +2,7 @@
 **Systems Analysis and Development student** and aspiring **backend programmer** with<br>
 a focus on clean code
 
-I like to use everything<br>
-> backend / graphics/ games
+I like to use everything
 
 # Life
 <img align="right" alt="spotify" width="350" src="https://spotify-github-profile.vercel.app/api/view?uid=ogo8145ejm92x2s033ete7cdm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=ca1773&bar_color_cover=false">
