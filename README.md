@@ -1,6 +1,6 @@
 # Hi, I'm Vako
-**Systems Analysis and Development student** and aspiring **backend programmer** with<br>
-a focus on clean code
+**Systems Analysis and Development** student and aspiring **backend programmer** with
+ a focus on clean code
 
 I like to use everything
 
@@ -9,9 +9,9 @@ I like to use everything
 
 ### Trivia
 - My favorite color is ![CA1773](https://img.shields.io/badge/CA1773-CA1773?logo=ca1773&logoColor=white&style=for-the-badge)
-- Tabs over Spaces (*Size 4*)
+- **Tabs** over **Spaces** (*Size 4*)
 - My favorite theme is [**Dracula**](https://draculatheme.com/)
-- Sublime Text over Visual Studio Code
+- **Sublime Text** over **Visual Studio Code**
 - I like to write tutorials for myself
 - I'm learning japanese
 
@@ -30,7 +30,8 @@ I like to use everything
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 
 ### Learning
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
+<!-- ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge) -->
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white&style=for-the-badge)
 
 
 ## Software and Technology
