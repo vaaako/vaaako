@@ -47,7 +47,7 @@ I like to use everything
 
 ---
 
-[![GMAIL](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:matharth520@gmail.com)
+<!--[![GMAIL](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:matharth520@gmail.com) -->
  ![DISCORD](https://img.shields.io/badge/vakothebat-5865F2?logo=discord&logoColor=white&style=for-the-badge)
 <br>![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvaaako%2Fvaaako&label=Visitors&labelColor=%23242424&countColor=%23ca1773)
 
