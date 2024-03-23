@@ -15,9 +15,10 @@ I like to use everything
 ![Node.js](https://img.shields.io/badge/Node-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white&style=for-the-badge)
 
 ### Learning
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white&style=for-the-badge)
+![Ruby](https://img.shields.io/badge/ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge)
 
 ### I know but not that much
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
