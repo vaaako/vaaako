@@ -14,11 +14,10 @@ I like to use everything
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white&style=for-the-badge)
 
 ### Learning
-![Ruby](https://img.shields.io/badge/ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge)
+![Rails](https://img.shields.io/badge/Ruby%20On%20Rails-CC342D?logo=rubyonrails&logoColor=white&style=for-the-badge)
 
 ### I know but not that much
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
@@ -29,7 +28,6 @@ I like to use everything
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
-![Mint](https://img.shields.io/badge/Mint-87CF3E?logo=linuxmint&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![NeoVim](https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
 ![SublimeText](https://img.shields.io/badge/Sublime-FF9800?logo=sublimetext&logoColor=white&style=for-the-badge)
