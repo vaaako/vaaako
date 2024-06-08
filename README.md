@@ -23,7 +23,6 @@ I like to use everything
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-F8981D?logo=openjdk&logoColor=white&style=for-the-badge)
 
-
 ## Software and Technology
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
@@ -43,3 +42,9 @@ I like to use everything
 
 ![vaaako's github stats](https://github-readme-stats.vercel.app/api?username=vaaako&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 ![vaaako's github programming languages](https://github-readme-stats.vercel.app/api/top-langs?username=vaaako&layout=compact&langs_count=20&theme=radical&card_width=320)
+
+
+
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.8; background: url('https://github.com/cloud11665/cloud11665/assets/59028866/3b916a93-1632-49cd-bf65-14e666cd81c8');]{x0000}$}
