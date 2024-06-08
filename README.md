@@ -1,7 +1,5 @@
-# Hi, I'm Vako
-**Systems Analysis and Development** student and aspiring **backend programmer** with
- a focus on clean code
-
+# Vako
+**Systems Analysis and Development** student<br>
 I like to use everything
 
 ## Skills
@@ -16,10 +14,6 @@ I like to use everything
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white&style=for-the-badge)
 
-### Learning
-![Rails](https://img.shields.io/badge/Ruby%20On%20Rails-CC342D?logo=rubyonrails&logoColor=white&style=for-the-badge)
-
-### I know but not that much
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-F8981D?logo=openjdk&logoColor=white&style=for-the-badge)
 
@@ -33,16 +27,12 @@ I like to use everything
 
 ---
 
-<!--[![GMAIL](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:matharth520@gmail.com) -->
- ![DISCORD](https://img.shields.io/badge/vakothebat-5865F2?logo=discord&logoColor=white&style=for-the-badge)
-<br>![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvaaako%2Fvaaako&label=Visitors&labelColor=%23242424&countColor=%23ca1773)
-
----
-
-
 ![vaaako's github stats](https://github-readme-stats.vercel.app/api?username=vaaako&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 ![vaaako's github programming languages](https://github-readme-stats.vercel.app/api/top-langs?username=vaaako&layout=compact&langs_count=20&theme=radical&card_width=320)
 
+---
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvaaako%2Fvaaako&label=Visitors&labelColor=%23242424&countColor=%23ca1773)
 
 
 
