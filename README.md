@@ -1,5 +1,4 @@
 # vako
-i like kuromi, pink floyd, beetles (not beatles) and C++
 
 <img align="right" height="150" src="media/kuromi-magenta.png"  />
 
