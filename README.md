@@ -29,5 +29,3 @@
 
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvaaako%2Fvaaako&label=Visitors&labelColor=%23242424&countColor=%23ca1773)
 
-![discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge")
-
