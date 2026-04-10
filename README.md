@@ -12,14 +12,8 @@
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=white&style=for-the-badge)
+![Arch](https://img.shields.io/badge/Artix%20Linux-1793D1?logo=artixlinux&logoColor=white&style=for-the-badge)
 ![NeoVim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
-
-
-<!--
-**Programming Languages:** C++, C, Java, Typescript, Node, Python, Lua, HTML, CSS, Javascript<br>
-**Softwares:** Arch Linux and Neovim
--->
 
 ---
 
